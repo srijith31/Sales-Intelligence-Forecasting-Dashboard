@@ -1,6 +1,4 @@
-# Sales Data Analytics Dashboard
-
-<div align="center">
+# Sales Data Analytics Dashboard <div align="center">
   
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://salesdashboard-mrre4qkxgkhqhtnx2iwr3m.streamlit.app/#sales-forecast
 )
@@ -12,6 +10,7 @@ A product-grade Streamlit dashboard for sales analytics, business intelligence, 
 Designed for **Indian e-commerce datasets**, but works with **any structured sales CSV**.
 
 ---
+ 
 
 ## Key Features
 ...
@@ -328,4 +327,3 @@ streamlit run app.py
 * Executive business reporting
 
 ---
-## LIVE DEMO
