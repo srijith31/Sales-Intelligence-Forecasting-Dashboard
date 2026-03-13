@@ -33,7 +33,7 @@ REQUIRED_COLUMNS = (
     "customer_name",
 )
 
-DATA_FILE = "src/sales.csv"
+DATA_FILE = "salesdashboard/src/sales.csv"
 
 st.set_page_config(
     page_title="Sales Data Analytics Dashboard",
