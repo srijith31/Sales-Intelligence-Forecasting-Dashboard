@@ -1,3 +1,20 @@
+# Sales Data Analytics Dashboard
+
+<div align="center">
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://salesdashboard-mrre4qkxgkhqhtnx2iwr3m.streamlit.app/#sales-forecast
+)
+
+</div>
+
+A product-grade Streamlit dashboard for sales analytics, business intelligence, ML-powered forecasting, and automated insights.
+
+Designed for **Indian e-commerce datasets**, but works with **any structured sales CSV**.
+
+---
+
+## Key Features
+...
 Your content is already strong, but it is **too long and slightly repetitive** for a professional **GitHub README**. For portfolios, internships, and recruiters, the README should be:
 
 * Clean
@@ -312,4 +329,3 @@ streamlit run app.py
 
 ---
 ## LIVE DEMO
-https://salesdashboard-mrre4qkxgkhqhtnx2iwr3m.streamlit.app/#sales-forecast
